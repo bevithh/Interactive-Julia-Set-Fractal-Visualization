@@ -21,6 +21,6 @@ Efficient Rendering:
 The fractal should be rendered efficiently to handle user interactions in real-time without noticeable lag.
 Technologies to be Used:
 
-Programming Language: implemented in a language like C++ (using SplashKit library).
+Programming Language: implemented in a language C++ (using SplashKit library).
 Fractal Generation: Mathematical computations to generate the Julia Set based on complex numbers.
 Mouse Event Handling: Code to handle left-click (zoom in) and right-click (zoom out) mouse events for user interaction.
